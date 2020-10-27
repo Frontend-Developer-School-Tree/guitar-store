@@ -1,0 +1,10 @@
+body{background-color: rgb(21, 21, 21);}
+h1{color: #fff;}
+.form_edit{padding:5vh;box-shadow: 10px,10px,10px,10px #000;}
+.wrapper{height: 100vh;}
+label{color:#fff;}
+
+
+.error_label{
+    border-color: red;
+}
